@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rainbowgardenscollective
-- 👀 I’m interested in Enterprise Cloud 
-- 🌱 I’m currently learning Windows 2022
-- 💞️ I’m looking to collaborate on Teams
-- 📫 How to reach me david@rainbowgardensollective.com
+- 👋 Hi, We are @rainbowgardenscollective
+- 👀 We are interested in Enterprise Cloud 
+- 🌱 We are currently learning A.I.
+- 💞️  looking to collaborate on Teams
+- 📫 How to reach us admin@rainbowgardensollective.com
 
 <!---
 rainbowgardenscollectivedev/rainbowgardenscollectivedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
